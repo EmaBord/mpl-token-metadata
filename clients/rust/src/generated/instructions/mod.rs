@@ -19,7 +19,7 @@ pub(crate) mod r#convert_master_edition_v1_to_v2;
 pub(crate) mod r#create;
 pub(crate) mod r#create_escrow_account;
 pub(crate) mod r#create_master_edition_v3;
-pub(crate) mod r#create_metadata_account_v3;
+pub mod create_metadata_account_v3;
 pub(crate) mod r#create_v1;
 pub(crate) mod r#delegate;
 pub(crate) mod r#delegate_authority_item_v1;
